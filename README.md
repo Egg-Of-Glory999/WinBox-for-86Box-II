@@ -7,7 +7,7 @@ Currently, this software may be the successor of [WinBox For 86Box](https://gith
 
 <p align="center"><img src="https://github.com/86Box/WinBox-for-86Box/blob/6be9b55daa445b1864c36bd31b092e4bd815d071/Images/Wiki/Screenshot.PNG" width="500" height="353"></img></p>
 
-**Its most noticeable features are:**
+**The most noticeable features from WinBox For 86Box are:**
 - It automatically updates 86Box via Jenkins.
 - It collects all your VMs in a slick brand new list, with some customization options.
 - It has a very user-friendly UI.
@@ -17,6 +17,12 @@ Currently, this software may be the successor of [WinBox For 86Box](https://gith
 - It has a built-in GUID-based storing system for your machines, so you don't have to be aware of folder naming schemes.
 - It has a large collection of custom-made icons.
 - It can create floppy images, and VHD and IMG hard disk images.
+  
+**And WinBox for 86Box II adds:**
+- The ability to make floppy images (Coming soon)
+- The ability to clone an existing Machine (Coming soon)
+- MacOS and Linux Ports (MIGHT be coming soon)
+- Load VMs from .86b files (Coming soon)
 
 **The program currently supports these display languages:**
 
