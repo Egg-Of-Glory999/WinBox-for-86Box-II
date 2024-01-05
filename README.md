@@ -1,9 +1,9 @@
-# WinBox-for-86Box
+# WinBox for 86Box II
 #### The newest way to manage the oldest computers.
 
 This program has been created to simplify the way I use [86Box](https://github.com/86Box/86Box) x86 emulator. 
 
-Currently this software is the successor of [WinBox Reloaded](https://github.com/86Box/WinBox-Reloaded).
+Currently this software may the successor of [WinBox For 86Box](https://github.com/86Box/WinBox-For-86Box).
 
 <p align="center"><img src="https://github.com/86Box/WinBox-for-86Box/blob/6be9b55daa445b1864c36bd31b092e4bd815d071/Images/Wiki/Screenshot.PNG" width="500" height="353"></img></p>
 
